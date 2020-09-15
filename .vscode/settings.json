@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    // "debug.javascript.usePreview": true
+    "debug.javascript.usePreview": true
+}

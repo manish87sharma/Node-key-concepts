@@ -1,0 +1,25 @@
+{
+  "name": "Node-key-concepts",
+  "version": "1.0.0",
+  "description": "Important key concepts and snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manish87sharma/Node-key-concepts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manish87sharma/Node-key-concepts/issues"
+  },
+  "homepage": "https://github.com/manish87sharma/Node-key-concepts#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}

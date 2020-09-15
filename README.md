@@ -14,3 +14,8 @@ Important key concepts and snippets
     - Start the SQLEXPRESS with -m parameter( to be added in startup parameter) and restart the service
     - Start the SQL studio with administrator and reset the password and role in security->logins->user.
     - Remove the -m parameter and restart the service.
+    - 
+
+### To use import statement in node js
+
+- add type in package.json and use flag --es-module-specifier-resolution=node
