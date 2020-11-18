@@ -1,5 +1,8 @@
 {
     "editor.formatOnSave": true,
     // "debug.javascript.usePreview": true
-    "debug.javascript.usePreview": true
+    "debug.javascript.usePreview": true,
+    "cSpell.words": [
+        "Bhubneswar"
+    ]
 }
